@@ -1,6 +1,6 @@
 ﻿namespace WorkingWIthGit.Models
 {
-    public class Hola
+    public class ad
     {
     }
 }
